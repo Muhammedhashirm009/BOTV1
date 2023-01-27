@@ -7953,7 +7953,7 @@ const buttonMessage = {
 ╠${prefix}couplepicture
 ╠${prefix}wallphone
 ╠${prefix}wallml
-╠═══════✪ RANDOM VIDEO
+/*╠═══════✪ RANDOM VIDEO
 ╠${prefix}tiktokgirl	
 ╠${prefix}tiktoknukhty
 ╠${prefix}tiktokpanrika
@@ -7961,8 +7961,8 @@ const buttonMessage = {
 ╠${prefix}tiktoknotnot
 ╠${prefix}tiktokghea
 ╠${prefix}tiktoksantuy
-╠${prefix}tiktokbocil
-╠═══════✪ EMOTE 
+╠${prefix}tiktokbocil*/
+/*╠═══════✪ EMOTE 
 ╠${prefix}instagramemoji
 ╠${prefix}facebookemoji
 ╠${prefix}iphoneemoji
@@ -8342,7 +8342,7 @@ const buttonMessage = {
 ╠ ${prefix}sound158
 ╠ ${prefix}sound159
 ╠ ${prefix}sound160
-╠ ${prefix}sound161
+╠ ${prefix}sound161*/
 ╠══════✪ GAME 
 ╠ ${prefix}truth
 ╠ ${prefix}dare
